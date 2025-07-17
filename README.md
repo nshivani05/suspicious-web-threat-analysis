@@ -32,3 +32,6 @@ This project analyzes web server traffic logs collected from AWS CloudWatch to d
 - Anomalies flagged using `bytes_out` threshold (Top 5%)  
 
 ---
+<img width="843" height="470" alt="image" src="https://github.com/user-attachments/assets/df898c6a-f91b-40c0-8b41-61dc2d3c2482" />
+<img width="942" height="470" alt="image" src="https://github.com/user-attachments/assets/5d69e7ee-d02d-4662-96b6-9292e3091ff0" />
+
