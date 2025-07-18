@@ -3,6 +3,8 @@
 This project analyzes web server traffic logs collected from AWS CloudWatch to detect suspicious activity, identify threat sources, and visualize patterns of malicious behavior. Using Python, Pandas, and data visualization libraries, it flags anomalies and supports real-time monitoring for cybersecurity teams.
 
 ---
+## Live Demo:
+https://suspicious-web-threat-analyzer-txt5bs2rt98gue43cwenge.streamlit.app/
 
 ## 🎯 Project Objectives
 
